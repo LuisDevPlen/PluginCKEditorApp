@@ -1,0 +1,10 @@
+
+blockquote.custom-citation {
+    font-style: italic;
+    border-left: 4px solid #ccc;
+    padding-left: 10px;
+    margin-left: 0;
+    color: #555;
+}
+
+
